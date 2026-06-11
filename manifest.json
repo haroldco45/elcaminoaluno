@@ -1,0 +1,26 @@
+{
+  "name": "El Camino al Uno · Espacio de consciencia",
+  "short_name": "Camino al Uno",
+  "description": "Reflexión diaria, diario de consciencia y prácticas guiadas para reconectar con la fuente.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#160F2E",
+  "theme_color": "#160F2E",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
